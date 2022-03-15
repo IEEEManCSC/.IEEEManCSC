@@ -44,7 +44,7 @@ simply referred to by the letters I-E-E-E (pronounced Eye-triple-E)
 
 <br />
 
-<h3> 🤝🏻 &nbsp;Connect Us @</h3> 
+<h3> 📞 &nbsp;Connect Us @</h3> 
 
 <p align="center">
 <br>
