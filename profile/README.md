@@ -50,7 +50,7 @@ simply referred to by the letters I-E-E-E (pronounced Eye-triple-E)
 <br>
 <a href="https://www.facebook.com/ieeemancsc"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.linkedin.com/company/ieeemancsc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCqXBZM5eGl7fs1Vzwvlc8CQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.youtube.com/c/IEEEManCSC"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <!--
